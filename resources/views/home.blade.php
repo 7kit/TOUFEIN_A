@@ -226,7 +226,7 @@
                                           <p>Encaissement : ({{$recues->count()}})</p>
 
                                           @foreach($recues as $recue)
-                                              <p>Recue {{$envoie->montant}} de {{$recue->envoyeurname()}} pour {{$recue->motif}} le {{date('d-m-Y', strtotime($recue->created_at))}};</p>
+                                              <p>Recue {{$recue->montant}} de {{$recue->envoyeurname()}} pour {{$recue->motif}} le {{date('d-m-Y', strtotime($recue->created_at))}};</p>
                                           @endforeach
 
                                         </div>
