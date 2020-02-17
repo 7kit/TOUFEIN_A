@@ -1,0 +1,15 @@
+user 1
+name : Alpha1
+Email : alpha1@uk.co
+password : alpha1@uk.co
+
+user 2
+name : Alpha2
+Email : alpha2@uk.co
+password : alpha2@uk.co
+
+name : Marché
+Email : marche@uk.co
+password : marche@uk.co
+
+NB : procédez à la création des utilisateurs, Alpha1 représentera l'agence, et dans cet exemple réduit sera chargé de recharger les comptes des autres, quand ils auront besoin de fonds pour faire des transactions.
